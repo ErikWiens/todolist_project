@@ -6,3 +6,4 @@ gem 'minitest', '~> 5.17.0'
 gem 'minitest-reporters', '~> 1.6.0'
 gem 'stamp', '~> 0.6.0'
 gem 'rake'
+gemspec
